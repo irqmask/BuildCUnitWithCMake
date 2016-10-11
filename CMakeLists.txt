@@ -1,5 +1,5 @@
 # CMake buildscript for CUnit - Build CUnit with a CMake buildscript.
-# Copyright (C) 2016 - Christian Verhalan
+# Copyright (C) 2016 - Christian Verhalen
 #
 # This library is free software; you can redistribute it and/or
 # modify it under the terms of the GNU Library General Public
